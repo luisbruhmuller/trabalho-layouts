@@ -27,3 +27,6 @@ body {
 .flex {
     display: flex;
 }
+.bola{
+    border-radius: 100%;
+}
